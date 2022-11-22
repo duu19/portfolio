@@ -39,7 +39,7 @@
 .footer-copy {
     grid-column: 1 / -1;
     font-size: 1.125rem;
-    color: white;
+    color: #cccccc;
 }
 
 @media (max-width: 800px) {
